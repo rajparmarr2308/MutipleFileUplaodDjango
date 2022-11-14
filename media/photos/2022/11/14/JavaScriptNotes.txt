@@ -1,0 +1,44 @@
+Object In JavaScript
+
+const student ={
+		name:'John',
+		age:17
+	      }
+
+Variable in JAvaScript
+var a=['a','b']
+
+InBuilt Methods javaScript
+Date()
+Concat()
+Push()
+Pop()
+Round()
+Length()
+
+Var Should be 
+var abc123
+not Valid --> var 123 (Cannot Begin With Numeric Value)
+
+JavaScript Is cASE sENSITIVE
+
+jAVAscript fn Declaration
+function abc(){
+	return 5;
+}
+
+JavaScript Expression
+var a=function abc(){
+	return 5;
+}
+
+Create Cookie
+
+document.cookie="key1=value1;key2=value2;expires=date";
+
+to delete there is delete_cookie Function
+
+Array Functions
+const helloWorld = ()=>{
+
+};
